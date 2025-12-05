@@ -62,22 +62,13 @@ Git · GitHub · Vercel · Render · Postman · Figma
 
 ---
 
-## ✦ GitHub Insights
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Sergii-Sotnikov&show_icons=true&theme=dark&hide_border=true&title_color=4c8dff&icon_color=4c8dff" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergii-Sotnikov&layout=compact&theme=dark&hide_border=true&title_color=4c8dff" />
-
-</div>
-
----
-
 ## ✦ Activity Stream
 
 <div align="center">
-  <img src="https://github.com/Sergii-Sotnikov/Sergii-Sotnikov/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Sergii-Sotnikov&theme=high-contrast&area=true&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
 </div>
 
 ---
