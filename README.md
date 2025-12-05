@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=160&section=header&text=Sergii%20Sotnikov&fontSize=42&fontColor=4c8dff" />
-</p>
-
-<br/>
-
-<div align="center">
-
 ### **Full-Stack Developer (React · Next.js · Node.js)**  
 Crafting modern, reliable and scalable applications in the JavaScript ecosystem.
 
@@ -67,9 +59,9 @@ Git · GitHub · Vercel · Render · Postman · Figma
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=SergiiSotnikov&show_icons=true&theme=dark&hide_border=true&title_color=4c8dff&icon_color=4c8dff" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Sergii-Sotnikov&show_icons=true&theme=dark&hide_border=true&title_color=4c8dff&icon_color=4c8dff" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergiiSotnikov&layout=compact&theme=dark&hide_border=true&title_color=4c8dff" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergi-Sotnikov&layout=compact&theme=dark&hide_border=true&title_color=4c8dff" />
 
 </div>
 
@@ -78,7 +70,7 @@ Git · GitHub · Vercel · Render · Postman · Figma
 ## ✦ Activity Stream
 
 <div align="center">
-  <img src="https://github.com/SergiiSotnikov/SergiiSotnikov/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only" />
+  <img src="https://github.com/Sergii-Sotnikov/SergiiSotnikov/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only" />
 </div>
 
 ---
